@@ -6,7 +6,7 @@
 
 ## À propos de moi
 
-Je suis Charlene Duret, étudiante à Ada Tech School, à la recherche d'une alternance en tant que développeuse full stack à partir de juillet 2025. Je suis à la recherche de nouvelles opportunités pour apprendre et grandir dans ce domaine.
+Je suis Charlene Duret, étudiante à Ada Tech School, à la recherche d'une alternance en tant que développeuse full stack à partir de juillet 2025. Je cherche de nouvelles opportunités pour apprendre et grandir dans ce domaine.
 
 ## Compétences
 
