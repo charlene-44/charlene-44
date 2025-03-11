@@ -23,7 +23,6 @@ Je suis Charlene Duret, étudiante à Ada Tech School, à la recherche d'une alt
 
 ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-lightblue?style=flat-square&logo=tailwindcss)
 
 ### Outils de design
